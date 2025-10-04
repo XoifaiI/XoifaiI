@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif" alt="Hello Coders" width="60%"/>
-
-<br><br>
+<img src="https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif" alt="Hello Coders" width="50%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=XoifaiI&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Discord](https://img.shields.io/badge/XNX-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/659428537211551754)
 
 </div>
-
-<br>
 
 ## Tech Stack
 
@@ -29,46 +25,14 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<br>
-
 ## About Me
 
-```luau
-local AboutMe = {
-    CurrentFocus = "Cybersecurity & Cryptography",
-    Skills = {
-        Languages = {
-            Primary = { "C++", "C", "Rust", "Java", "Luau", "Python" },
-            Web = { "HTML", "CSS", "JavaScript" },
-            Scripting = { "Bash" },
-            Data = { "JSON" }
-        },
-        Tools = {
-            Editors = { "VSCode", "Sublime Text" },
-            Database = { "Firebase" },
-            OS = { "Linux", "Windows" },
-            VersionControl = { "Git" }
-        }
-    },
-    Interests = { "Security", "Cryptography", "Systems Programming" }
-}
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="12%" />
 
-return AboutMe
-```
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
-
-### Currently
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="21" /> Learning **cybersecurity** and exploring security concepts
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="21" /> Deep diving into **cryptography** and encryption
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="18" /> Mystery code: **594e53213f21404d4d** ;)
-
-### Contact
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="21" /> **Discord:** [xoifail](https://discord.com/users/659428537211551754)
-
-<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="18" /> Learning **cybersecurity** and security concepts
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="18" /> Exploring **cryptography** and encryption
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="15" /> Mystery: **594e53213f21404d4d** ;)
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="18" /> Discord: **[xoifail](https://discord.com/users/659428537211551754)**
 
 ## GitHub Stats
 
@@ -76,33 +40,13 @@ return AboutMe
 
 ![Profile Details](https://raw.githubusercontent.com/XoifaiI/XoifaiI/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
 
-<p>
-<img src="https://raw.githubusercontent.com/XoifaiI/XoifaiI/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="33%" />
-<img src="https://raw.githubusercontent.com/XoifaiI/XoifaiI/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="33%" />
-</p>
+<img src="https://raw.githubusercontent.com/XoifaiI/XoifaiI/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="33.33%" />
+<img src="https://raw.githubusercontent.com/XoifaiI/XoifaiI/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="33.33%" />
 
-<p>
-<img src="https://raw.githubusercontent.com/XoifaiI/XoifaiI/main/profile-summary-card-output/nord_dark/3-stats.svg" width="33%" />
-<img src="https://raw.githubusercontent.com/XoifaiI/XoifaiI/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="33%" />
-</p>
-
-</div>
-
-<br>
-
-## The Developer's Cycle
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="System broken"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It works!"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Works but how?"/>
+<img src="https://raw.githubusercontent.com/XoifaiI/XoifaiI/main/profile-summary-card-output/nord_dark/3-stats.svg" width="33.33%" />
+<img src="https://raw.githubusercontent.com/XoifaiI/XoifaiI/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="33.33%" />
 
 **Broken** → **Fixed** → **Works (somehow?)**
 
-</div>
-
----
-
-<div align="center">
-</div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="System broken"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Isla

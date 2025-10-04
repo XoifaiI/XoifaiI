@@ -1,9 +1,15 @@
-name: GitHub Profile Summary Cards
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -13,9 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Generate Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}

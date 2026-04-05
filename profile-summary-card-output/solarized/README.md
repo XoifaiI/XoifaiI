@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/XoifaiI/XoifaiI/main/profile-summary-card-output/solarized/4-productive-time.svg)
-```
-
-    
